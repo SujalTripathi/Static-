@@ -21,7 +21,5 @@ A static **Netflix-inspired landing page**, built with pure **HTML** and **CSS**
 - Google Fonts
 - Font Awesome (optional for icons)
 
-## 🚀 Getting Started
 
-Clone the repository and open `index.html` in your browser:
 
