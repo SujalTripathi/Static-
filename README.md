@@ -25,7 +25,3 @@ A static **Netflix-inspired landing page**, built with pure **HTML** and **CSS**
 
 Clone the repository and open `index.html` in your browser:
 
-```bash
-git clone https://github.com/your-username/netflix-clone.git
-cd netflix-clone
-open index.html
